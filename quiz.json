@@ -1,20 +1,55 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Honda with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What year was Honda founded?",
+      "answers": ["1937", "1948", "1955"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Honda's sports car?",
+      "answers": ["Civic", "NSX", "Accord"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Where is Honda headquartered?",
+      "answers": ["Tokyo", "Nagoya", "Hamamatsu"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who founded Honda?",
+      "answers": ["Soichiro", "Kiichiro", "Yamamoto"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is Honda's SUV?",
+      "answers": ["Pilot", "Camry", "Civic"],
       "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is a Honda hybrid?",
+      "answers": ["Fit", "Insight", "Jazz"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Honda's luxury brand?",
+      "answers": ["Lexus", "Acura", "Infiniti"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Which is a Honda hatchback?",
+      "answers": ["CR-V", "Civic", "Pilot"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Honda's slogan?",
+      "answers": ["Go Far", "Zoom-Zoom", "The Power of Dreams"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Which is a Honda sedan?",
+      "answers": ["Pilot", "Accord", "Fit"],
+      "correctAnswerIndex": 1
     }
   ]
 }
